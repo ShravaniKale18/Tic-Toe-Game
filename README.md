@@ -2,6 +2,13 @@
 
 A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**. This project allows two players to play Tic-Tac-Toe in the browser with winner detection, game reset functionality, and a clean user interface.
 
+## 🚀 Live Demo
+
+🔗 **Play the Game:**  
+https://shravanikale18.github.io/Tic-Toe-Game/
+
+---
+
 ## 🚀 Features
 
 * Two-player gameplay (X and O)
@@ -16,11 +23,11 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 
 * HTML5
 * CSS3
-* JavaScript 
+* JavaScript
 
 ## 📂 Project Structure
 
-```
+```text
 tic-tac-toe/
 │
 ├── index.html
@@ -42,7 +49,7 @@ tic-tac-toe/
 
 The game checks the following winning combinations:
 
-```
+```text
 [0,1,2]
 [3,4,5]
 [6,7,8]
@@ -53,26 +60,33 @@ The game checks the following winning combinations:
 [2,4,6]
 ```
 
-<!--## 📸 Screenshot
+<!--
+## 📸 Screenshot
 
 Add a screenshot of your project here after uploading it to GitHub.
-
 -->
+
 ## 🔧 Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/shravanikale18/Tic-Toe-Game.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd tic-tac-toe
+cd Tic-Toe-Game
 ```
 
 3. Open `index.html` in your browser.
+
+## 🌐 Live Website
+
+Visit the deployed project here:
+
+👉 https://shravanikale18.github.io/Tic-Toe-Game/
 
 ## 🌟 Future Improvements
 
@@ -93,4 +107,6 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Made with ❤️ using HTML, CSS, and JavaScript.
+Made with ❤️ by **Shravani Kale** using HTML, CSS, and JavaScript.
+
+⭐ If you like this project, consider giving it a star on GitHub!
